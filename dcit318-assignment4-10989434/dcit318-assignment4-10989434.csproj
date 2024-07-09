@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>dcit318_assignment4_10989434.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

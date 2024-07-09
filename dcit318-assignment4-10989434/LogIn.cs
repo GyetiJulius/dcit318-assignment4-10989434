@@ -1,8 +1,8 @@
 namespace dcit318_assignment4_10989434
 {
-    public partial class Form1 : Form
+    public partial class LogIn : Form
     {
-        public Form1()
+        public LogIn()
         {
             InitializeComponent();
         }

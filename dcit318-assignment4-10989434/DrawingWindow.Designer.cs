@@ -1,6 +1,6 @@
 ﻿namespace dcit318_assignment4_10989434
 {
-    partial class Form2
+    partial class DrawingWindow
     {
         private System.ComponentModel.IContainer components = null;
         private System.Windows.Forms.PictureBox pictureBox;

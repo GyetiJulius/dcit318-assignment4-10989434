@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace dcit318_assignment4_10989434
 {
-    public partial class Form2 : Form
+    public partial class DrawingWindow : Form
     {
         private bool isDrawing = false;
         private Point startPoint;
         private Bitmap drawingBitmap;
         private Graphics graphics;
 
-        public Form2()
+        public DrawingWindow()
         {
             InitializeComponent();
             drawingBitmap = new Bitmap(pictureBox.Width, pictureBox.Height);
